@@ -26,6 +26,7 @@ button {
 header {
   display: flex;
   align-items: stretch;
+  padding-bottom: 1rem;
 }
 
 header,
