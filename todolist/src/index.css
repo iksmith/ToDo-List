@@ -11,7 +11,7 @@ h2,
 h3,
 input,
 button {
-  font-family: 'Play', system-ui;
+  font-family: 'Inter', 'Play', system-ui;
 }
 
 #root {
@@ -19,7 +19,7 @@ button {
   display: flex;
   flex-direction: column;
   padding: 14px;
-  background: #eff6ff;
+  background: #dddddd;
   gap: 14px;
 }
 
